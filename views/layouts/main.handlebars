@@ -11,25 +11,27 @@
 
 <body>
   <div class="wrapper">
-        <header>
-      <h1>
-        <a href="/">Tech Blog</a>
-      </h1>
-    
       <nav>
+    <header>
+      <h1>
+        <a href="/">Tech Blog</a> 
+      </h1>
+        <a class="home" href="/">Home</a> 
         {{#if loggedIn}}
-        <a href="/dashboard">dashboard</a>
-        <button id="logout" class="btn-no-style">logout</button>
+        <a href="/dashboard">Dashboard</a>
+        <button id="logout" class="btn-no-style">Logout</button>
         {{else}}
-        <a class="" href="/login">login</a>
+        <a class="" href="/login">Login</a>
         {{/if}}
-
-      </nav>
     </header>
+      </nav>
     <main>
       {{{ body }}}
+
     </main>
+
     <footer>
+
       © The Tech Blog Folks
     </footer>
   </div>
@@ -38,5 +40,8 @@
   <script src="/javascript/logout.js"></script>
   {{/if}}
 </body>
+
+<script src="/js/home.js"></script>
+
 
 </html>
