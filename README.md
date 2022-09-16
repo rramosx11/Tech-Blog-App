@@ -2,7 +2,7 @@
 
 ##
 
-## Description
+## [Description](#table-of-contents)
 
 This is a tech blog that allows a user to post about whatever they wish. It supports account creation with secure password hashing and storage as well as the ability to login. Users can view all posts, or go to their dashboards to see the posts they have made. They can also comment on posts if they are logged in.
 
@@ -12,10 +12,11 @@ This is a tech blog that allows a user to post about whatever they wish. It supp
 
 ## Table-of-Contents
 
-- [Installation](#description)
+- [Description](#description)
+- [Installation](#installation)
 - [Usage](#usage)
 
-- [Contributing](#contribute)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
