@@ -8,6 +8,8 @@ This is a tech blog that allows a user to post about whatever they wish. It supp
 
 [Deployed Link to Tech-Blog](https://protected-woodland-87710.herokuapp.com/)
 
+![Tech-Blog Screenshot](https://github.com/rramosx11/Tech-Blog-App/blob/main/public/assets/images/Screen%20Shot%202022-09-15%20at%2011.39.47%20PM.png)
+
 ## Table-of-Contents
 
 - [Installation](#description)
